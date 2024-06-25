@@ -17,16 +17,16 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100043265301021",
-    ""
+    "61555835579977",
+    "100076636516504"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "Astral AI",
-  "ownerlink": "https://www.facebook.com/100043265301021",
+  "nickNameBot": "DAVE AI",
+  "ownerlink": "https://www.facebook.com/61555835579977",
   "prefix": "-",
   "database": {
     "type": "sqlite",
